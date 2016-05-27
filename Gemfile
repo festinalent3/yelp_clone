@@ -27,7 +27,7 @@ gem 'devise'
 gem 'omniauth-facebook'
 gem 'dotenv-rails', :groups => [:development, :test]
 gem 'paperclip'
-gem 'aws-sdk', '< 2.0'
+gem 'aws-sdk'
 
 
 # Use ActiveModel has_secure_password
